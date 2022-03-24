@@ -1,0 +1,11 @@
+{
+    "name": "user/test-midtrans",
+    "autoload": {
+        "psr-4": {
+            "User\\TestMidtrans\\": "src/"
+        }
+    },
+    "require": {
+        "midtrans/midtrans-php": "^2.5"
+    }
+}
